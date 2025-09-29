@@ -1,5 +1,5 @@
 import React from 'react'
-import Video from '../components/home/video'
+import Video from '../components/home/Video'
 import Hometop from '../components/home/Hometop'
 import Homebottom from '../components/home/Homebottom'
 const Home = () => {
